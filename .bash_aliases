@@ -3,3 +3,5 @@ alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo
 alias cd..='cd ..'
 alias cls='clear'
 alias dir='dir -FAsh --format=single-column'
+alias gits='git status'
+alias gitc='git commit'
