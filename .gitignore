@@ -1,0 +1,14 @@
+.bash_history
+.bash_logout
+.cache/
+.config/
+.gnupg/
+.joinnow/
+.lesshst
+.local/
+.pki/
+.ssh/
+.sudo_as_admin_successful
+Documents/
+Downloads/
+snap/
