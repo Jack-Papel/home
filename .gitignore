@@ -13,3 +13,7 @@ Documents/
 Downloads/
 snap/
 git/
+.cargo/
+.rustup/
+.dotnet/
+.vscode/extensions/
