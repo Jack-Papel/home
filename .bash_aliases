@@ -5,3 +5,6 @@ alias cls='clear'
 alias dir='dir -FAsh --format=single-column'
 alias gits='git status'
 alias gitc='git commit'
+alias discord='back discord'
+alias firefox='back firefox'
+
