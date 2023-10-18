@@ -1,4 +1,4 @@
-# Jack's home setup\
+# Jack's home setup
 
 With the snap store, install:
 * VSCode
