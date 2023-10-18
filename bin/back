@@ -4,7 +4,7 @@ if [ $# != 0 ]
 then
     if which $1 > /dev/null
     then
-        $@ &> /dev/null &
+        "$@" &> /dev/null &
     else
         echo "back: $1: command not found"
     fi
