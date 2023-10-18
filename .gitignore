@@ -25,3 +25,4 @@ git/
 .python_history
 .minecraft/
 .npm/
+.vscode/
