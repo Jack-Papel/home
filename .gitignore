@@ -26,3 +26,4 @@ git/
 .minecraft/
 .npm/
 .vscode/
+.nvidia-settings-rc
