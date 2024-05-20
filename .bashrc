@@ -111,6 +111,6 @@ if ! shopt -oq posix; then
   fi
 fi
 
-. "$HOME/.cargo/env"
+source "$HOME/.cargo/env" &> /dev/null
 
-eval $(thefuck --alias fuck)
+eval $(thefuck --alias fuck) &> /dev/null
